@@ -1,0 +1,38 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "pitfit-3815f",
+          "appId": "1:639590466588:android:628c87d5d05a8f9a120bd9",
+          "fileOutput": "android/app/google-services.json"
+        },
+        "buildConfigurations": {
+          ".": {
+            "projectId": "pitfit-3815f",
+            "appId": "1:639590466588:android:511315ef1bf73453120bd9",
+            "fileOutput": "android/app/google-services.json"
+          }
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "pitfit-3815f",
+          "configurations": {
+            "android": "1:639590466588:android:628c87d5d05a8f9a120bd9",
+            "ios": "1:639590466588:ios:19da51b3b4d7e918120bd9"
+          }
+        },
+        "lib/firebase_options_android_temp.dart": {
+          "projectId": "pitfit-3815f",
+          "configurations": {
+            "android": "1:639590466588:android:511315ef1bf73453120bd9"
+          }
+        }
+      }
+    }
+  }
+}

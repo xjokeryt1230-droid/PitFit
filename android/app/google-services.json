@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "639590466588",
+    "project_id": "pitfit-3815f",
+    "storage_bucket": "pitfit-3815f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639590466588:android:628c87d5d05a8f9a120bd9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADqAdN9jOUB9KC8sijQm4Tm2_ekUH7ncY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639590466588:android:511315ef1bf73453120bd9",
+        "android_client_info": {
+          "package_name": "pl.pitfit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADqAdN9jOUB9KC8sijQm4Tm2_ekUH7ncY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

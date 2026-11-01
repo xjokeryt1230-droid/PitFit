@@ -1,0 +1,6 @@
+name = "pitfit-notify"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+
+[vars]
+FIREBASE_PROJECT_ID = "pitfit-3815f"
